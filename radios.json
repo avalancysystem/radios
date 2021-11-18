@@ -4,7 +4,7 @@
                 radioName: "Rádio T",
                 radioDesc: "Rádio T Curitiba",
                 radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://live.paineldj.com.br/proxy/tguarapuava?mp=/stream"
+                radioSource: "https://livex.paineldj.com.br/proxy/tguarapuava?mp=/stream"
             },
             {
                 radioId: "2",
