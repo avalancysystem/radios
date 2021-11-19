@@ -1,74 +1,74 @@
  [
             {
-                radioId: "1",
-                radioName: "Rádio T",
-                radioDesc: "Rádio T Curitiba",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://live.paineldj.com.br/proxy/tguarapuava?mp=/stream"
+                "radioId": "1",
+                "radioName": "Rádio T",
+                "radioDesc": "Rádio T Curitiba",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://live.paineldj.com.br/proxy/tguarapuava?mp=/stream"
             },
             {
-                radioId: "2",
-                radioName: "Cultura FM",
-                radioDesc: "CulturaFM guarapuava",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://caikron.com.br:8038/stream"
+                "radioId": "2",
+                "radioName": "Cultura FM",
+                "radioDesc": "CulturaFM guarapuava",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://caikron.com.br:8038/stream"
             },
             {
-                radioId: "3",
-                radioName: "92 FM",
-                radioDesc: "92 FM",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://player.stream2.com.br/proxy/8618"
+                "radioId": "3",
+                "radioName": "92 FM",
+                "radioDesc": "92 FM",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://player.stream2.com.br/proxy/8618"
             },
             {
-                radioId: "4",
-                radioName: "Rádio Massa FM",
-                radioDesc: "Rádio Massa FM",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://stm01.virtualcast.com.br:8140/live?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzI0MDczOSwiaXNzIjoidGlzcnYifQ.xY-Iv2DOLHfshI8NJkwc54zuOC1xkpJIrNRA2KQeKf4"
+                "radioId": "4",
+                "radioName": "Rádio Massa FM",
+                "radioDesc": "Rádio Massa FM",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://stm01.virtualcast.com.br:8140/live?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzI0MDczOSwiaXNzIjoidGlzcnYifQ.xY-Iv2DOLHfshI8NJkwc54zuOC1xkpJIrNRA2KQeKf4"
             },
            {
-                radioId: "5",
-                radioName: "Unicentro",
-                radioDesc: "Unicentro",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://paineldj6.com.br:20030/stream"
-            },
-             {
-                radioId: "6",
-                radioName: "Cultura católica",
-                radioDesc: "Cultura católica",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://caikron.com.br:8040/stream"
+                "radioId": "5",
+                "radioName": "Unicentro",
+                "radioDesc": "Unicentro",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://paineldj6.com.br:20030/stream"
             },
             {
-                radioId: "7",
-                radioName: "Antena 1",
-                radioDesc: "Antena 1 SP",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://stream.antena1.com.br/stream2",
-                radioSource2:"https://antenaone.crossradio.com.br/stream/1?DIST=TuneIn&TGT=TuneIn&maxServers=2"
+                "radioId": "6",
+                "radioName": "Cultura católica",
+                "radioDesc": "Cultura católica",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://caikron.com.br:8040/stream"
             },
             {
-                radioId: "8",
-                radioName: "Coca Cola FM",
-                radioDesc: "Coca cola",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://listen.openstream.co/3908/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNTAwMDg3MywiaXNzIjoidGlzcnYifQ.EZV8lZvqgt23E5lNTfhm0McJG9c2WQGVODtQGqJlBts"
+                "radioId": "7",
+                "radioName": "Antena 1",
+                "radioDesc": "Antena 1 SP",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://stream.antena1.com.br/stream2",
+                "radioSource2":"https://antenaone.crossradio.com.br/stream/1?DIST=TuneIn&TGT=TuneIn&maxServers=2"
             },
             {
-                radioId: "9",
-                radioName: "CBN news",
-                radioDesc: "CBN noticias",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "http://stm10.conectastm.com:8276/stream?1626465848583"
+                "radioId": "8",
+                "radioName": "Coca Cola FM",
+                "radioDesc": "Coca cola",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "https://listen.openstream.co/3908/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNTAwMDg3MywiaXNzIjoidGlzcnYifQ.EZV8lZvqgt23E5lNTfhm0McJG9c2WQGVODtQGqJlBts"
             },
             {
-                radioId: "10",
-                radioName: "80s FLASHBACK",
-                radioDesc: "80s FLASHBACK",
-                radioLogo: "ui/svg/radio.svg",
-                radioSource: "http://80s80s.hoerradar.de/80s80s-mweb-aac-mq?sABC=61742737%230%232423r4sr0o26r15on2ps3rsrr130175r%23gharva&DIST=TuneIn&TGT=TuneIn&maxServers=2"
+                "radioId": "9",
+                "radioName": "CBN news",
+                "radioDesc": "CBN noticias",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "http://stm10.conectastm.com:8276/stream?1626465848583"
+            },
+            {
+                "radioId": "10",
+                "radioName": "80s FLASHBACK",
+                "radioDesc": "80s FLASHBACK",
+                "radioLogo": "ui/svg/radio.svg",
+                "radioSource": "http://80s80s.hoerradar.de/80s80s-mweb-aac-mq?sABC=61742737%230%232423r4sr0o26r15on2ps3rsrr130175r%23gharva&DIST=TuneIn&TGT=TuneIn&maxServers=2"
             }
             
 
