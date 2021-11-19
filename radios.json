@@ -34,8 +34,15 @@
                 radioLogo: "ui/svg/radio.svg",
                 radioSource: "https://paineldj6.com.br:20030/stream"
             },
-            {
+             {
                 radioId: "6",
+                radioName: "Cultura católica",
+                radioDesc: "Cultura católica",
+                radioLogo: "ui/svg/radio.svg",
+                radioSource: "https://caikron.com.br:8040/stream",
+            },
+            {
+                radioId: "7",
                 radioName: "Antena 1",
                 radioDesc: "Antena 1 SP",
                 radioLogo: "ui/svg/radio.svg",
@@ -43,21 +50,21 @@
                 radioSource2:"https://antenaone.crossradio.com.br/stream/1?DIST=TuneIn&TGT=TuneIn&maxServers=2"
             },
             {
-                radioId: "7",
+                radioId: "8",
                 radioName: "Coca Cola FM",
                 radioDesc: "Coca cola",
                 radioLogo: "ui/svg/radio.svg",
                 radioSource: "https://listen.openstream.co/3908/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNTAwMDg3MywiaXNzIjoidGlzcnYifQ.EZV8lZvqgt23E5lNTfhm0McJG9c2WQGVODtQGqJlBts"
             },
             {
-                radioId: "8",
+                radioId: "9",
                 radioName: "CBN news",
                 radioDesc: "CBN noticias",
                 radioLogo: "ui/svg/radio.svg",
                 radioSource: "http://stm10.conectastm.com:8276/stream?1626465848583"
             },
             {
-                radioId: "9",
+                radioId: "10",
                 radioName: "80s FLASHBACK",
                 radioDesc: "80s FLASHBACK",
                 radioLogo: "ui/svg/radio.svg",
