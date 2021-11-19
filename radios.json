@@ -2,7 +2,7 @@
             {
                 "radioId": "0",
                 "radioName": "Rádio T",
-                "radioDesc": "Rádio T Curitiba",
+                "radioDesc": "Rádio T",
                 "radioLogo": "ui/svg/radio.svg",
                 "radioSource": "https://live.paineldj.com.br/proxy/tguarapuava?mp=/stream"
             },
@@ -29,28 +29,28 @@
             },
            {
                 "radioId": "4",
-                "radioName": "Unicentro",
-                "radioDesc": "Unicentro",
+                "radioName": "Unicentro FM",
+                "radioDesc": "Unicentro FM",
                 "radioLogo": "ui/svg/radio.svg",
                 "radioSource": "https://paineldj6.com.br:20030/stream"
             },
             {
                 "radioId": "5",
-                "radioName": "Cultura católica",
-                "radioDesc": "Cultura católica",
+                "radioName": "Cultura católica FM",
+                "radioDesc": "Cultura católica FM",
                 "radioLogo": "ui/svg/radio.svg",
                 "radioSource": "https://caikron.com.br:8040/stream"
             },
             {
                 "radioId": "6",
-                "radioName": "Bikurin",
-                "radioDesc": "Bikurin",
+                "radioName": "Bikurin FM",
+                "radioDesc": "Bikurin FM",
                 "radioLogo": "ui/svg/radio.svg",
                 "radioSource": "https://player-ssl.kshost.com.br:8066/live"
             },
             {
                 "radioId": "7",
-                "radioName": "Antena 1",
+                "radioName": "Antena 1 ",
                 "radioDesc": "Antena 1 SP",
                 "radioLogo": "ui/svg/radio.svg",
                 "radioSource": "https://stream.antena1.com.br/stream2",
