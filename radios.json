@@ -39,7 +39,7 @@
                 radioName: "Cultura católica",
                 radioDesc: "Cultura católica",
                 radioLogo: "ui/svg/radio.svg",
-                radioSource: "https://caikron.com.br:8040/stream",
+                radioSource: "https://caikron.com.br:8040/stream"
             },
             {
                 radioId: "7",
