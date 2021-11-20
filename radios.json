@@ -39,7 +39,8 @@
                 "radioName": "Rádio difusora FM",
                 "radioDesc": "Rádio difusora FM",
                 "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://f12.fabricahost.com.br/difusora1017?f=1637352519N9f577e6188a1b66ca44b6c1b9e13d4e7"
+                "radioSource": "https://ice.fabricahost.com.br/difusora1017"
+          
             },
   
   
