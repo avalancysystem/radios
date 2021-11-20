@@ -11,7 +11,7 @@
                 "radioName": "Cultura FM",
                 "radioDesc": "CulturaFM guarapuava",
                 "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://xcaikron.com.br:8038/stream"
+                "radioSource": "https://caikron.com.br:8038/stream"
             },
             {
                 "radioId": "2",
