@@ -1,99 +1,101 @@
- [
-            {
-                "radioId": "0",
-                "radioName": "Rádio T",
-                "radioDesc": "Rádio T",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://ice.fabricahost.com.br/radiotguarapuava"
-            },
-            {
-                "radioId": "1",
-                "radioName": "Cultura FM",
-                "radioDesc": "CulturaFM guarapuava",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://caikron.com.br:8038/stream"
-            },
-            {
-                "radioId": "2",
-                "radioName": "92 FM",
-                "radioDesc": "92 FM",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://player.stream2.com.br/proxy/8618"
-            },
-            {
-                "radioId": "3",
-                "radioName": "Rádio Massa FM",
-                "radioDesc": "Rádio Massa FM",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://stm01.virtualcast.com.br:8140/live?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzI0MDczOSwiaXNzIjoidGlzcnYifQ.xY-Iv2DOLHfshI8NJkwc54zuOC1xkpJIrNRA2KQeKf4"
-            },
-            {
-                "radioId": "4",
-                "radioName": "Jovem Pan FM",
-                "radioDesc": "Jovem Pan FM",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://ice.fabricahost.com.br/jpguarapuava"
-            },
-           {
-                "radioId": "5",
-                "radioName": "Unicentro FM",
-                "radioDesc": "Unicentro FM",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://paineldj6.com.br:20030/stream"
-            },
-            {
-                "radioId": "6",
-                "radioName": "Cultura católica FM",
-                "radioDesc": "Cultura católica FM",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://caikron.com.br:8040/stream"
-            },
-            {
-                "radioId": "7",
-                "radioName": "Radio evangelizar AM",
-                "radioDesc": "Radio evangelizar AM",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://shout07.crossradio.com.br:18000/stream/1;"
-            },
-            {
-                "radioId": "8",
-                "radioName": "Bikurin FM",
-                "radioDesc": "Bikurin FM",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://player-ssl.kshost.com.br:8066/live"
-            },
-            {
-                "radioId": "9",
-                "radioName": "Antena 1 ",
-                "radioDesc": "Antena 1 SP",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://stream.antena1.com.br/stream2",
-                "radioSource2":"https://antenaone.crossradio.com.br/stream/1?DIST=TuneIn&TGT=TuneIn&maxServers=2"
-            },
-            {
-                "radioId": "10",
-                "radioName": "Coca Cola FM",
-                "radioDesc": "Coca cola",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "https://listen.openstream.co/3908/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNTAwMDg3MywiaXNzIjoidGlzcnYifQ.EZV8lZvqgt23E5lNTfhm0McJG9c2WQGVODtQGqJlBts"
-            },
-            {
-                "radioId": "11",
-                "radioName": "CBN news",
-                "radioDesc": "CBN noticias",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "http://stm10.conectastm.com:8276/stream?1626465848583"
-            },
-            {
-                "radioId": "12",
-                "radioName": "80s FLASHBACK",
-                "radioDesc": "80s FLASHBACK",
-                "radioLogo": "ui/svg/radio.svg",
-                "radioSource": "http://80s80s.hoerradar.de/80s80s-mweb-aac-mq?sABC=61742737%230%232423r4sr0o26r15on2ps3rsrr130175r%23gharva&DIST=TuneIn&TGT=TuneIn&maxServers=2"
-            }
-            
-
-            
-        ]
-
- 
+[
+  {
+    "radioId": "0",
+    "radioName": "Rádio T",
+    "radioDesc": "Rádio T",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://ice.fabricahost.com.br/radiotguarapuava"
+  },
+  {
+    "radioId": "1",
+    "radioName": "Cultura FM",
+    "radioDesc": "CulturaFM guarapuava",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://caikron.com.br:8038/stream"
+  },
+  {
+    "radioId": "2",
+    "radioName": "92 FM",
+    "radioDesc": "92 FM",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://player.stream2.com.br/proxy/8618"
+  },
+  {
+    "radioId": "3",
+    "radioName": "Rádio Massa FM",
+    "radioDesc": "Rádio Massa FM",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://stm01.virtualcast.com.br:8140/live?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzI0MDczOSwiaXNzIjoidGlzcnYifQ.xY-Iv2DOLHfshI8NJkwc54zuOC1xkpJIrNRA2KQeKf4"
+  },
+  {
+    "radioId": "4",
+    "radioName": "Rede Sul Notícias",
+    "radioDesc": "Rede Sul Notícias",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "http://stream.zeno.fm/bukv8d6pkittv"
+  },
+  {
+    "radioId": "5",
+    "radioName": "Jovem Pan FM",
+    "radioDesc": "Jovem Pan FM",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://ice.fabricahost.com.br/jpguarapuava"
+  },
+  {
+    "radioId": "6",
+    "radioName": "Unicentro FM",
+    "radioDesc": "Unicentro FM",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://paineldj6.com.br:20030/stream"
+  },
+  {
+    "radioId": "7",
+    "radioName": "Cultura católica FM",
+    "radioDesc": "Cultura católica FM",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://caikron.com.br:8040/stream"
+  },
+  {
+    "radioId": "8",
+    "radioName": "Radio evangelizar AM",
+    "radioDesc": "Radio evangelizar AM",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://shout07.crossradio.com.br:18000/stream/1;"
+  },
+  {
+    "radioId": "9",
+    "radioName": "Bikurin FM",
+    "radioDesc": "Bikurin FM",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://player-ssl.kshost.com.br:8066/live"
+  },
+  {
+    "radioId": "10",
+    "radioName": "Antena 1 ",
+    "radioDesc": "Antena 1 SP",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://stream.antena1.com.br/stream2",
+    "radioSource2": "https://antenaone.crossradio.com.br/stream/1?DIST=TuneIn&TGT=TuneIn&maxServers=2"
+  },
+  {
+    "radioId": "11",
+    "radioName": "Coca Cola FM",
+    "radioDesc": "Coca cola",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "https://listen.openstream.co/3908/audio?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNTAwMDg3MywiaXNzIjoidGlzcnYifQ.EZV8lZvqgt23E5lNTfhm0McJG9c2WQGVODtQGqJlBts"
+  },
+  {
+    "radioId": "12",
+    "radioName": "CBN news",
+    "radioDesc": "CBN noticias",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "http://stm10.conectastm.com:8276/stream?1626465848583"
+  },
+  {
+    "radioId": "12",
+    "radioName": "80s FLASHBACK",
+    "radioDesc": "80s FLASHBACK",
+    "radioLogo": "ui/svg/radio.svg",
+    "radioSource": "http://80s80s.hoerradar.de/80s80s-mweb-aac-mq?sABC=61742737%230%232423r4sr0o26r15on2ps3rsrr130175r%23gharva&DIST=TuneIn&TGT=TuneIn&maxServers=2"
+  }
+]
