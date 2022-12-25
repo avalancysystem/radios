@@ -89,7 +89,7 @@
     "radioName": "CBN news",
     "radioDesc": "CBN noticias",
     "radioLogo": "ui/svg/radio.svg",
-    "radioSource": "http://stm10.conectastm.com:8276/stream?1626465848583"
+    "radioSource": "https://ice.fabricahost.com.br/cbncuritiba"
   },
   {
     "radioId": "13",
