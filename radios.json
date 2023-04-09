@@ -67,7 +67,7 @@
     "radioName": "Bikurin FM",
     "radioDesc": "Bikurin FM",
     "radioLogo": "ui/svg/radio.svg",
-    "radioSource": "https://player-ssl.kshost.com.br:8066/live"
+    "radioSource": "https://hts03.kshost.com.br:8066/live"
   },
   {
     "radioId": "10",
