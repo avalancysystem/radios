@@ -53,7 +53,7 @@
     "radioName": "Cultura católica FM",
     "radioDesc": "Cultura católica FM",
     "radioLogo": "ui/svg/radio.svg",
-    "radioSource": "https://caikron.com.br:8040/stream"
+    "radioSource": "https://caikron.com.br:8024/stream"
   },
   {
     "radioId": "8",
