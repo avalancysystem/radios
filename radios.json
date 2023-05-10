@@ -74,7 +74,7 @@
     "radioName": "Antena 1 ",
     "radioDesc": "Antena 1 SP",
     "radioLogo": "ui/svg/radio.svg",
-    "radioSource": "https://stream.antena1.com.br/stream2",
+    "radioSource": "https://antenaone.crossradio.com.br/stream/1",
     "radioSource2": "https://antenaone.crossradio.com.br/stream/1?DIST=TuneIn&TGT=TuneIn&maxServers=2"
   },
   {
