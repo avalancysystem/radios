@@ -61,8 +61,7 @@
     "radioDesc": "Radio evangelizar AM",
     "radioLogo": "ui/svg/radio.svg",
     "radioSource": "https://shout87.crossradio.com.br:18000/stream"
-   
-  },
+   },
   {
     "radioId": "9",
     "radioName": "Bikurin FM",
@@ -78,8 +77,7 @@
     "radioSource": "https://antenaone.crossradio.com.br/stream/1",
     "radioSource2": "https://antenaone.crossradio.com.br/stream/1?DIST=TuneIn&TGT=TuneIn&maxServers=2"
   },
-
-  {
+ {
     "radioId": "12",
     "radioName": "CBN news",
     "radioDesc": "CBN noticias",
