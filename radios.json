@@ -60,7 +60,7 @@
     "radioName": "Radio evangelizar AM",
     "radioDesc": "Radio evangelizar AM",
     "radioLogo": "ui/svg/radio.svg",
-    "radioSource": "https://shout87.crossradio.com.br:18000/stream/1;"
+    "radioSource": "https://8239.brasilstream.com.br/stream?origem=site"
    },
   {
     "radioId": "9",
