@@ -83,12 +83,5 @@
     "radioDesc": "CBN noticias",
     "radioLogo": "ui/svg/radio.svg",
     "radioSource": "https://ice.fabricahost.com.br/cbncuritiba"
-  },
-  {
-    "radioId": "13",
-    "radioName": "80s FLASHBACK",
-    "radioDesc": "80s FLASHBACK",
-    "radioLogo": "ui/svg/radio.svg",
-    "radioSource": "http://80s80s.hoerradar.de/80s80s-mweb-aac-mq?sABC=61742737%230%232423r4sr0o26r15on2ps3rsrr130175r%23gharva&DIST=TuneIn&TGT=TuneIn&maxServers=2"
   }
 ]
