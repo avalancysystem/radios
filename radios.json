@@ -4,7 +4,7 @@
     "radioName": "Rádio T",
     "radioDesc": "Rádio T",
     "radioLogo": "ui/svg/radio.svg",
-    "radioSource": "https://paineldj5.com.br:20120/stream"
+    "radioSource": "https://s1.mediacp.com.br:8984/stream"
   },
   {
     "radioId": "1",
